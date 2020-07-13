@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-![Penguins Hellow](https://media1.tenor.com/images/122d0649573307269c64e4eb240f0e22/tenor.gif?itemid=5441146)
+![Penguins Hello](https://media1.tenor.com/images/122d0649573307269c64e4eb240f0e22/tenor.gif?itemid=5441146)
 
 - 💻 Assistant Scientist turning data into science at @UMiamiRSMAS
 - ♥️ #ocean #travel #data #science #ml #ai
