@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋👨‍💻
+
+💻 Assistant Scientist turning data into science at @UMiamiRSMAS
+🏖️ Summer enthusiast
+🏠 Miami – Montréal
+♥️ #ocean #travel #data #science #ml #ai
+philippemiron.github.io
 
 <!--
 **philippemiron/philippemiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
