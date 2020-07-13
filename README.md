@@ -1,10 +1,12 @@
-### Hi there 👋👨‍💻
+### Hello 👋👨‍💻
 
-💻 Assistant Scientist turning data into science at @UMiamiRSMAS
-🏖️ Summer enthusiast
-🏠 Miami – Montréal
-♥️ #ocean #travel #data #science #ml #ai
-philippemiron.github.io
+![Penguins Hellow](https://media1.tenor.com/images/122d0649573307269c64e4eb240f0e22/tenor.gif?itemid=5441146)
+
+- 💻 Assistant Scientist turning data into science at @UMiamiRSMAS
+- ♥️ #ocean #travel #data #science #ml #ai
+- 🏖️ Summer enthusiast
+- 🏠 Miami – Montréal
+- [philippemiron.github.io](https://philippemiron.github.io/)
 
 <!--
 **philippemiron/philippemiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
