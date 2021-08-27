@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-- 💻 Assistant Scientist turning data into science at Florida State University (COAPS)
+- 💻 Research Faculty turning data into science at Florida State University (COAPS)
 - ♥️ #ocean #travel #data #science #ml #ai
 - 🏖️ Summer enthusiast
 - 🏠 Miami – Montréal
