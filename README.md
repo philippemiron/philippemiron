@@ -1,10 +1,11 @@
 ### Hello 👋👨‍💻
 
 - 💻 Research Faculty turning data into science at Florida State University (COAPS)
-- ♥️ #ocean #travel #data #science #ml #ai
+- ♥️ #ocean #travel #data #science #ml #ai #renewables
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
-- [philippemiron.github.io](https://philippemiron.github.io/)
+- 📫 Reach me on [Twitter](https://twitter.com/philippemiron)
+- 🌎 [philippemiron.github.io](https://philippemiron.github.io/)
 
 <!--
 **philippemiron/philippemiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
