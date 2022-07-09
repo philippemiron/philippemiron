@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-- 💻 Research Faculty turning data into science at Florida State University (COAPS)
+- 💻 Research Faculty turning data into science
 - ♥️ #ocean #travel #data #science #ml #ai #renewables
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
