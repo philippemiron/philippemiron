@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-- 💻 Research Faculty soon (😃!) Senior Scientific Engineer turning data into science
+- 💻 Assistant Research Faculty and very soon (😃!) Senior Scientific Engineer turning data into science
 - ♥️ #ocean #travel #data #science #ml #ai #renewables
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
