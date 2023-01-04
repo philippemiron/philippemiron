@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-- 💻 Assistant Research Faculty and very soon (😃!) Senior Scientific Engineer turning data into science
+- 💻 Senior Scientific Engineer at DTNWeather
 - ♥️ #ocean #travel #data #science #ml #ai #renewables
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
