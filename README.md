@@ -1,7 +1,7 @@
 ### Hello 👋👨‍💻
 
 - 💻 Senior Scientific Engineer at DTNWeather
-- ♥️ #ocean #travel #data #science #ml #ai #renewables
+- ♥️ #coding #travel #data #science #ml #ai #renewables #bikes
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
 - 📫 Reach me on [Twitter](https://twitter.com/philippemiron)
