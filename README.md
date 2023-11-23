@@ -4,7 +4,7 @@
 - ♥️ #coding #travel #data #science #ml #ai #renewables #bikes
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
-- 📫 Reach me on [Twitter](https://twitter.com/philippemiron)
+- 📫 Reach me on [X](https://x.com/philippemiron)
 - 🌎 [philippemiron.github.io](https://philippemiron.github.io/)
 
 <!--
