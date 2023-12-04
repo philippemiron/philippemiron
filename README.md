@@ -1,6 +1,6 @@
 ### Hello 👋👨‍💻
 
-- 💻 Senior Scientific Engineer at DTNWeather
+- 💻 Senior Scientific Engineer in the Remote Sensing group at DTN
 - ♥️ #coding #travel #data #science #ml #ai #renewables #bikes
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
