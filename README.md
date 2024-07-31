@@ -7,6 +7,11 @@
 - 📫 Reach me on [X](https://x.com/philippemiron)
 - 🌎 [philippemiron.github.io](https://philippemiron.github.io/)
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=philippemiron&theme=tokyonight&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippemiron&layout=compact&theme=tokyonight&count_private=true)</a>
+</details>
 <!--
 **philippemiron/philippemiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
