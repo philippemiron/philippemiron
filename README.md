@@ -1,30 +1,9 @@
 ### Hello 👋👨‍💻
 
-- 💻 Senior Scientific Engineer in the Remote Sensing group at DTN
-- ♥️ #coding #travel #data #science #ml #ai #renewables #bikes
+- 💻 Senior Scientific Engineer and Data Scientist at DTN
+- 🤓 Recovering Physical Oceanography Academic [Google Scholar](https://scholar.google.ca/citations?hl=en&pli=1&user=XEtG4h0AAAAJ)
+- ♥️ #ai #ml #data #engineering #travel #renewables #bikes
 - 🏖️ Summer enthusiast
 - 🏠 Tallahassee – Montréal
 - 📫 Reach me on [X](https://x.com/philippemiron)
 - 🌎 [philippemiron.github.io](https://philippemiron.github.io/)
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=philippemiron&theme=tokyonight&count_private=true&hide_border=true)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippemiron&theme=tokyonight&count_private=true&hide_border=true&layout=compact)</a>
-</details>
-
-<!--
-**philippemiron/philippemiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
